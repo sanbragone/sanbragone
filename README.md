@@ -16,9 +16,5 @@
     <a href="mailto:bragon@gmail.com">
     <img src="https://img.shields.io/badge/bragon@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-<br>
-<br>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
+<img src="https://github.com/sanbragone/rafaballerini/blob/output/github-contribution-grid-snake.svg" />
