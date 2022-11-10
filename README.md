@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanbragone
 - 👀 I’m interested in coding and photography!
-- 🌱 I’m currently learning HTML, CSS, Javascript, Node.JS & more!
+- 🌱 I’m currently learning HTML, CSS, Javascript, React.JS, Node.JS & more!
 - 📫 How to reach me: 
 <br>
 <div id="badges" align="center">
